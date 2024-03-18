@@ -42,9 +42,7 @@ A resume builder which build with [Next.js](https://nextjs.org/), [React](https:
 
    Then open http://localhost:3000 with your browser to see the result.
 
-## Contact
 
-Your Name - jeetgangwar625@gmail.com
 
-Project Link: https://github.com/i-amWin/makeyourresume
+
 "# resume-builder" 
