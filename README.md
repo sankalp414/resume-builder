@@ -16,7 +16,7 @@ A resume builder which build with [Next.js](https://nextjs.org/), [React](https:
 1. Clone the repo
 
    ```bash
-     git clone https://github.com/i-amWin/makeyourresume.git
+     git clone https://github.com/sankalp414/resume-builder
    ```
 
 2. Install All packages
