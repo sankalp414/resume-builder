@@ -7,7 +7,7 @@ import NextJSTopLoader from "nextjs-toploader";
 const montserrat = Montserrat({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Make Your Resume",
+  title: "Resume Builder",
   description: "Make your resume in seconds with our free resume builder.",
 };
 
